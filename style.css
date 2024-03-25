@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+.slider {
+    display: flex;
+    justify-content: center;
+}
+.slider img {
+    width: 640px;
+    height: 640px;
+}
